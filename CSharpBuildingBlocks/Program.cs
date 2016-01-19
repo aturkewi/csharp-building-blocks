@@ -18,7 +18,17 @@ namespace CSharpBuildingBlocks
 			// double sum = myFirstValue + mySecondNumber;
 			// Console.WriteLine (sum.ToString());
 
-
+			// BOOLEANS
+			// bool myFirstBoolean = 3 + 2 == 5;
+			// Console.WriteLine (myFirstBoolean);
+			// bool mySecondBoolean = 3 + 2 > 5;
+			// Console.WriteLine (mySecondBoolean);
+			// bool bothAreTrue = myFirstBoolean && mySecondBoolean;
+			// Console.WriteLine ("bothAreTrue evaluates " + bothAreTrue);
+			// bool oneIsTrue = myFirstBoolean || mySecondBoolean;
+			// Console.WriteLine ("onIsTrue evaluates {0} because one expresion is true", oneIsTrue);
+			// bool reverseMyFirstBoolean = !myFirstBoolean;
+			// Console.WriteLine ("myFirstBoolean is {0} but reverseMyFirstBoolean is {1}", myFirstBoolean, reverseMyFirstBoolean);
 		}
 	}
 }
