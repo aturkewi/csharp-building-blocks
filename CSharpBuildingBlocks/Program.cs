@@ -10,12 +10,15 @@ namespace CSharpBuildingBlocks
 	{
 		public static void Main (string[] args)
 		{
-			string myString = "Hello World!";
-			Console.WriteLine (myString);
-			int myFirstValue = 23;
-			double mySecondNumber = 45.79;
-			double sum = myFirstValue + mySecondNumber;
-			Console.WriteLine (sum.ToString());
+			// BUILDING BLOCKS
+			// string myString = "Hello World!";
+			// Console.WriteLine (myString);
+			// int myFirstValue = 23;
+			// double mySecondNumber = 45.79;
+			// double sum = myFirstValue + mySecondNumber;
+			// Console.WriteLine (sum.ToString());
+
+
 		}
 	}
 }
